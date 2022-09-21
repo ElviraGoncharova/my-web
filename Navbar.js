@@ -11,10 +11,10 @@ export default function Navbar() {
             </Link>
         <ul>
             <CustomLink to="/Home">Home</CustomLink>"
-            <CustomLink to="/About us">About us</CustomLink>"
+            <CustomLink to="/About_us">About us</CustomLink>"
             <CustomLink to="/Portfolio">Portfolio</CustomLink>"
             <CustomLink to="/Models">Models</CustomLink>"
-            <CustomLink to="/Contact us">Contact us</CustomLink>"
+            <CustomLink to="/Contact_us">Contact us</CustomLink>"
           
         </ul>
     </nav>
